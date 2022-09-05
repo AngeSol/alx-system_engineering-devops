@@ -1,0 +1,2 @@
+#!/bin/bash
+headd -3 | tail -1
